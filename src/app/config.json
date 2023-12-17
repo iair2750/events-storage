@@ -1,0 +1,8 @@
+{
+  "bcrypt": {
+    "salt": 10
+  },
+  "jwt": {
+    "expiredIn": 1800
+  }
+}
